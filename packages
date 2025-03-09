@@ -1,0 +1,1 @@
+XBPS_ARCH=$ARCH xbps-install -S -r /mnt -R "$REPO" base-files coreutils findutils diffutils bash grep gzip sed gawk util-linux which tar shadow procps-ng iana-etc xbps tzdata runit-void removed-packages ncurses-base btrfs-progs iputils iproute2 dhcpcd wpa_supplicant grub-x86_64-efi openssh kmod linux6.1 linux6.1-headers
